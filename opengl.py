@@ -41,7 +41,7 @@ faces = (
     (2, 1, 5, 7),  # Y positivo
     (3, 0, 4, 6),  # Y negativo
     (5, 4, 6, 7),  # Z positivo
-    (0, 1, 2, 3)  # Z negativo
+    (0, 1, 2, 3)   # Z negativo
     )
 
 
